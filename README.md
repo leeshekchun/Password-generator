@@ -3,8 +3,8 @@
 add var for 
 Uppercase ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Lowercase abcdefghijklmnopqrstuvwxyz
-numeric 0123456789
+numeric 0123456789       Math.floor(Math.random () * (min,max))
 special characters ~!@#$%^&*()_+-=\|`</?,.;':"{}[]
 
 
-Math.floor(Math.random () * Uppercase)
+
