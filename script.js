@@ -68,6 +68,13 @@ var password = document.getElementById("password");
         password += characterTypes.charAt(Math.floor(Math.random() * j));
     };
     // console.log(password);
+ 
+    // var passwordText = document.querySelector("#password");
+  
+    // passwordText.value = password;
 
     document.getElementById("password").value = password;
   };
+
+  
+  
